@@ -70,3 +70,18 @@ progressStr=0900
     - 大枠はこちらのスクリプトを利用したものです。
 - [Excel UnPassword](http://www.acchi.cc/soft/eup/index.html)
     - レジュームのアイデアを拝借しました。
+
+
+## Author
+
+[Neo](http://neo.s21.xrea.com/) ([@Neos21](https://twitter.com/neos21))
+
+
+## Links
+
+- [Neo's World](http://neo.s21.xrea.com/)
+- [Corredor](http://neos21.hatenablog.com/)
+- [Murga](http://neos21.hatenablog.jp/)
+- [El Mylar](http://neos21.hateblo.jp/)
+- [Bit-Archer](http://bit-archer.hatenablog.com/)
+- [GitHub - Neos21GitHub](https://github.com/Neos21GitHub/)
